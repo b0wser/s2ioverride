@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -eo pipefail
+
+while true; do echo Hello; sleep 1; done
+
